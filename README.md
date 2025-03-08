@@ -65,22 +65,22 @@ print("Root Mean Square Error = ",rmse)
 ```
 
 ## Output:
-TO READ HEADS AND TAILS FILES
+# TO READ HEADS AND TAILS FILES
 ![265464941-636f3d3c-0e38-45d8-aa4c-5db428c68021](https://github.com/user-attachments/assets/0c8ad38b-9b50-4de4-9dee-712d50d52c60)
 
-COMPARE DATASET
+# COMPARE DATASET
 ![265465326-f5fc907c-f184-4dd7-b5e4-a487a240c2a8](https://github.com/user-attachments/assets/8d27f278-91ce-42c4-af14-2b529ec6593c)
 
-PREDICTED VALUE
+# PREDICTED VALUE
 ![265465575-27c0cae3-fc3a-40ae-8b6d-ab668d74dba9](https://github.com/user-attachments/assets/cc0827a1-5fd9-4286-ad02-24ec233fa702)
 
-GRAPH FOR TRAINING SET
+# GRAPH FOR TRAINING SET
 ![265465702-e182c03c-f168-4a5c-b1f7-dc0b5db7bf0d](https://github.com/user-attachments/assets/5166302f-48a3-4f09-95c7-2dcd8241468a)
 
-GRAPH FOR TESTING SET
+# GRAPH FOR TESTING SET
 ![265465895-a0b2c962-a9a7-4d1f-8b1c-11fbfae780bd](https://github.com/user-attachments/assets/e6b43e78-7a06-48f6-a27a-ab826fa1f38b)
 
-ERRORS
+# ERRORS
 ![265465998-1e1134e2-e5bf-42c4-9dc9-04da16b41b6f](https://github.com/user-attachments/assets/d59e0dd8-2296-4c8e-bb2a-1c9f9ef28fa9)
 
 
